@@ -1,0 +1,21 @@
+---
+-
+  git:
+    local-name: dyno_hsr
+    uri: "https://github.com/samiamlabs/dyno_hsr.git"
+    version: master
+-
+  git:
+    local-name: hsr_description
+    uri: "https://github.com/samiamlabs/hsr_description.git"
+    version: sigverse
+-
+  git:
+    local-name: hsr_meshes
+    uri: "https://github.com/ToyotaResearchInstitute/hsr_meshes.git"
+    version: master
+-
+  git:
+    local-name: sigverse_ros_package
+    uri: "https://github.com/samiamlabs/sigverse_ros_package.git"
+    version: fix-darknet-dependency
